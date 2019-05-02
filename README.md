@@ -1,4 +1,4 @@
 # Galvanize_Tableau
-Here are links to my Tableau Dashboards 
+Links to my Tableau Dashboards - See 'Favorites'
 
 https://public.tableau.com/profile/royce.guerra#!/
